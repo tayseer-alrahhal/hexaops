@@ -4,6 +4,7 @@ import { Link } from '@/i18n/navigation'
 import { useTranslations } from 'next-intl';
 import Image from 'next/image';
 import { motion } from 'framer-motion';
+import Sphere from './Sphere';
 
 export default function Hero() {
     const t = useTranslations("hero");
@@ -59,13 +60,14 @@ export default function Hero() {
                         animate={{ y: [0, -10, 0] }}
                         transition={{ duration: 6, repeat: Infinity, ease: 'easeInOut' }}
                     >
-                        <Image
+                        {/* <Image
                             src="/poll.png"
                             alt="Hero Image"
                             width={700}
                             height={730}
                             className="md:w-[700px] w-[342px] md:h-[730px] h-[357px] mt-20 mb-[100px]"
-                        />
+                        /> */}
+                        <Sphere />
                     </motion.div>
                 </motion.div>
             </div>
