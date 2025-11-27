@@ -159,7 +159,7 @@ export default function Contact() {
                 </div>
 
                 <motion.div
-                    className='relative flex items-center justify-center gap-6 md:gap-10 text-center mt-20 px-4 flex-wrap'
+                    className='relative flex items-center justify-center gap-6 md:gap-10 text-center mt-20 mb-20 px-4 flex-wrap'
                     initial="hidden"
                     whileInView="show"
                     viewport={{ once: true }}
