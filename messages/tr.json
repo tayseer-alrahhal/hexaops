@@ -1,0 +1,410 @@
+{
+    "header": {
+        "home": "Anasayfa",
+        "about": "Hakkımızda",
+        "projects": "Projeler",
+        "technology": "Teknoloji",
+        "button": "İletişim"
+    },
+    "hero": {
+        "title": "Geleceği Kodluyoruz",
+        "subtitle": "<brand>Hexaops</brand> olarak, derin teknoloji birikimimizle veri, yapay zeka ve otonom sistemler alanında standartları belirliyor, en zorlu problemlere akılcı çözümler üretiyoruz.",
+        "button": "Projelerimizi Keşfedin"
+    },
+    "section1": {
+        "title": "<brand>Hexaops</brand> yalnızca yazılım geliştirmez.",
+        "subtitle": "Geliştirdiğimiz her sistem, yalnızca işlevsel değil;anlamlı, öğrenen ve küresel ölçekte geçerli çözümler üretir.",
+        "box": {
+            "title": "Veri Odaklılık",
+            "subtitle": "Bütün çözümlerimizin temelinde anlamlandırılmış veri var."
+        }
+    },
+    "section2": {
+        "tags": {
+            "tag1": "#AI",
+            "tag2": "#Cloud",
+            "tag3": "#Fintech",
+            "tag4": "#Robotics"
+        },
+        "title": "Geleceği şekillendiren uzmanlık alanlarımız",
+        "Group": {
+            "title": "Yapay Zeka",
+            "subtitle": "LLM, NLP ve üretken yapay zeka teknolojileriyle insan merkezli, akıllı çözümler geliştiriyoruz.",
+            "button": "Daha Fazla"
+        },
+        "desc": "Yapay zekadan bulut altyapısına, finansal teknolojilerden otonom sistemlere kadar geniş bir uzmanlık ağıyla projeler geliştiriyoruz."
+    },
+    "section3": {
+        "title": "<brand>Hexaops</brand> Tarafından Geliştirilen Ürün ve Projeler",
+        "subtitle": "Yapay zeka, iletişim teknolojileri, finansal sistemler ve otonom robotik alanlarında geliştirdiğimiz projelerle; hem gerçek dünya problemlerine çözümler üretiyor, hem de geleceği bugünden şekillendiriyoruz.",
+        "button": "Projeyi Keşfet"
+    },
+    "section4": {
+        "title": "Neden <brand>Hexaops?</brand>",
+        "subtitle": "Hexaops, sadece teknoloji üretmez; aynı zamanda anlamlı veriyle beslenen, ölçeklenebilir ve insan odaklı sistemler geliştirir. Yenilikçi, sürdürülebilir ve güvenilir çözümler sunar.",
+        "group1": {
+            "title": "Veriyle Beslenen Karar Mekanizmaları",
+            "subtitle": "Çözümlerimizin temelinde, güvenilir ve anlamlandırılmış veriye dayalı stratejik karar yapıları bulunur."
+        },
+        "group2": {
+            "title": "Ar-Ge ve Sürekli İnovasyon",
+            "subtitle": "Ürünlerimiz, değişen teknolojiye adapte olabilen, öğrenen sistemlerle sürekli evrilir."
+        },
+        "group3": {
+            "title": "Kurumsal Güvenlik ve Sürdürülebilirlik",
+            "subtitle": "Geliştirdiğimiz her sistem, yüksek güvenlik standartları ve uzun vadeli bakım kriterleriyle uyumludur."
+        },
+        "group4": {
+            "title": "Global Standartlarda Yazılım Geliştirme",
+            "subtitle": "Hexaops çözümleri sadece yerel değil, uluslararası geçerliliğe sahip mühendislik standartlarına dayanır."
+        }
+    },
+    "footer": {
+        "company": {
+            "title": "Şirket",
+            "link1": "Hakkında",
+            "link2": "Ekip",
+            "link3": "Kariyer",
+            "link4": "İletişim",
+            "link5": "Yatırımcı İlişkileri"
+        },
+        "resources": {
+            "title": "Kaynaklar",
+            "link1": "Blog ve Haberler",
+            "link2": "Vaka Çalışmaları",
+            "link3": "Beyaz Belgeler",
+            "link4": "Etkinlikler",
+            "link5": "Dokümanlar"
+        },
+        "products": {
+            "title": "Ürünler",
+            "link1": "Mektup.co",
+            "link2": "Mergen Finans",
+            "link3": "AksuPlus",
+            "link4": "Primer Eye"
+        },
+        "solutions": {
+            "title": "Çözümler ve Sektörler",
+            "link1": "Kurumsal",
+            "link2": "Startuplar ve Scaleup'lar",
+            "link3": "Kamu Sektörü",
+            "link4": "Üniversiteler ve Araştırma"
+        },
+        "offices": {
+            "title": "Ofisler ve İletişim",
+            "link1": "Kahramanmaraş Genel Merkezi",
+            "link2": "İstanbul Ofisi",
+            "link3": "Telefon Numarası",
+            "link4": "info@Hexaops.com",
+            "link5": "Grup / Bağlı Kuruluşlar",
+            "link-61": "MAR Robotics",
+            "link-62": "Alligoria"
+        },
+        "footerLine": {
+            "title1": "Telif Hakkı Metni (© 2025 Hexaops...)",
+            "title2": "KVKK Aydınlatma Metinleri",
+            "title3": "Gizlilik Sözleşmesi",
+            "title4": "Kullanım Koşulları",
+            "title5": "Çerez Terchileri",
+            "title6": "Erişebilirlik Bildirimi"
+        }
+    },
+    "about-us": {
+        "about-hero": {
+            "title": "Vizyonumuz: Somut ve Ölçülebilir Teknoloji",
+            "subtitle": "Teknolojiyle nelerin mümkün olduğunu yeniden tanımlıyoruz.",
+            "button": "Projelerimizi Keşfedin"
+        },
+        "section1": {
+            "title": "Biz, yenilikçi çözümler üreten bir teknoloji grubuyuz",
+            "subtitle": "Hexaops, derin teknolojik bilgi birikimi ve yenilikçi bakış açısıyla ölçülebilir çözümler üreten bir teknoloji grubudur. Hikayemiz, yalnızca kod yazmaktan öte, teknolojiyle mümkün olanı yeniden tanımlama tutkusu ile başladı."
+        },
+        "section2": {
+            "tag": "Ekibimiz",
+            "title": "Başarımızın temeli ekibimiz",
+            "subtitle": "<brand>Hexaops'un</brand> arkasındaki itici güç, alanında uzman ve tecrübeli lider ekibimizdir.",
+            "team": {
+                "member1": {
+                    "name": "Asya İplikçi",
+                    "role": "Product Designer | Team Lead",
+                    "image": "/about/member.webp",
+                    "des": "Lorem ipsum dolor sit amet consectetur. Hac rutrum laoreet eu viverra libero. Faucibus sapien vulputate adipiscing non eleifend pulvinar ac semper amet. Rhoncus non interdum morbi molestie nunc. Aenean vulputate id justo nullam metus condimentum. Odio condimentum aliquam platea urna vitae urna. Pellentesque luctus quam libero dolor massa."
+                }
+            }
+        },
+        "section3": {
+            "tag": "Felsefemiz",
+            "title": "Sadece hizmet sunmuyor, teknoloji ortaklıkları kuruyoruz.",
+            "subtitle": "Bu ilke, işimize olan bağlılığımızın ve standartlarımızın bir yansımasıdır. Projelerimizde mükemmelliği hedefler, şeffaf ve sonuç odaklı bir iş birliği kültürü benimseriz. Ekibimize ve iş ortaklarımıza yatırım yapar, ancak yalnızca aynı tutkuyu ve vizyonu paylaşanlarla yola devam ederiz."
+        },
+        "section4": {
+            "tag": "Hizmetlerimiz",
+            "service1": {
+                "title": "Kendi Geliştirdiğimiz Yapay Zeka Modelleriyle Veriyi Güce Dönüştürüyoruz",
+                "subtitle": "Kendi geliştirdiğimiz LLM’ler, özel çeviri motorları ve veri havuzlarıyla projelerimize optimize yapay zekâ çözümleri sunuyoruz."
+            },
+            "service2": {
+                "title": "Yeraltındaki Yüksek Güvenlikli Veri Merkezimizle Kesintisiz Güç",
+                "subtitle": "Ankara’da bulunan, GPU destekli, 88 kabinet kapasiteli veri merkezimizle kesintisiz ve güvenli hizmet sağlıyoruz."
+            },
+            "service3": {
+                "title": "Bağımsız Geliştirilebilen Mikroservisler ile Esnek ve Ölçeklenebilir Yapı",
+                "subtitle": "Bağımsız geliştirilebilen mikroservis mimarimiz, projelerimizin hızlı ve güvenli ölçeklenmesini sağlıyor."
+            },
+            "service4": {
+                "title": "Uçtan Uca Şifreleme ve Katı Veri Politikalarıyla Maksimum Güvenlik",
+                "subtitle": "Tüm sistemlerimizde uçtan uca şifreleme ve katı veri politikalarıyla en yüksek seviyede güvenlik sağlıyoruz."
+            },
+            "service5": {
+                "title": "Robotik ve Donanım Ar-Ge Yetkinliklerimizle Yazılımın Ötesine Geçiyoruz",
+                "subtitle": "MAR Robotics iş birliğimizle donanım geliştirme ve sensör entegrasyonu sayesinde fiziksel dünyada da çözümler üretiyoruz."
+            }
+        },
+        "section5": {
+            "tag": "Danışmanlarımız ve Destekçilerimiz",
+            "title": "Danışmanlarımızla stratejik kararlar alıyoruz.",
+            "advisors": {
+                "advisor1": {
+                    "name": "Ahmet Yılmaz",
+                    "des": "Lorem ipsum dolor sit amet consectetur. Pellentesque odio malesuada fermentum fermentum in turpis in sit odio. Nec eleifend neque nulla sagittis ligula tortor. Nec eleifend neque nulla in turpis in sit odio.",
+                    "image": "/about/section5/advisor1.jpg"
+                },
+                "advisor2": {
+                    "name": "Selin aksu",
+                    "des": "Lorem ipsum dolor sit amet consectetur. Pellentesque odio malesuada fermentum fermentum in turpis in sit odio. Nec eleifend neque nulla sagittis ligula tortor. Nec eleifend neque nulla in turpis in sit odio.",
+                    "image": "/about/section5/advisor2.jpg"
+                },
+                "advisor3": {
+                    "name": "Melis Yıldız",
+                    "des": "Lorem ipsum dolor sit amet consectetur. Pellentesque odio malesuada fermentum fermentum in turpis in sit odio. Nec eleifend neque nulla sagittis ligula tortor. Nec eleifend neque nulla in turpis in sit odio.",
+                    "image": "/about/section5/advisor3.jpg"
+                },
+                "advisor4": {
+                    "name": "Mehmet Çil",
+                    "des": "Lorem ipsum dolor sit amet consectetur. Pellentesque odio malesuada fermentum fermentum in turpis in sit odio. Nec eleifend neque nulla sagittis ligula tortor. Nec eleifend neque nulla in turpis in sit odio.",
+                    "image": "/about/section5/advisor4.jpg"
+                }
+            }
+        }
+    },
+    "contact": {
+        "title": "Size Yardımcı Olalım",
+        "subtitle": "<brand>Hexaops</brand> ekibimizle iletişime geçin, ihtiyaçlarınıza en hızlı çözümleri sunalım.",
+        "boxes": {
+            "box1": {
+                "title": "Hexaops Topluluğu",
+                "subtitle": "Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor sit amet consectetur.",
+                "button": "Topluluğa Katıl"
+            },
+            "box2": {
+                "title": "Bizimle İletişime Geçin",
+                "subtitle": "Sorularınız, önerileriniz veya iş birliği talepleriniz için bize kolayca ulaşabilirsiniz.",
+                "button": "İletişim Kurun"
+            },
+            "box3": {
+                "title": "Kariyer / İş Birliği",
+                "subtitle": "Projelerimizde yer almak veya freelance iş birliği yapmak isterseniz ekibimize katılın.",
+                "button": "support@Hexaops.com"
+            }
+        },
+        "socials": {
+            "title": "Birlikte Geleceği Kodlayalım",
+            "subtitle": "Hexaops ile projenizi hayata geçirmek, teknoloji danışmanlığı almak ya da iş birliği yapmak için bizimle iletişime geçin."
+        }
+    },
+    "projects": {
+        "projects-hero": {
+            "title": "Teknolojinin Geleceğini İnşa Eden Çözümler",
+            "subtitle": "Hexaops olarak, yapay zekadan robotik sistemlere, fintech girişimlerinden yarı iletken teknolojilerine kadar geniş bir alanda projeler geliştiriyoruz. Her ürünümüz, yenilikçi vizyonumuzun ve teknolojik dönüşüme katkı sağlama hedefimizin bir yansımasıdır.",
+            "button1": "Projeleri Gör",
+            "button2": "Topluluğa Katıl",
+            "widgets": {
+                "widget1": {
+                    "title": "İstatistiklerimiz",
+                    "day1": "Pzt",
+                    "day2": "Sal",
+                    "day3": "Çar",
+                    "day4": "Per",
+                    "day5": "Cum",
+                    "day6": "Cmt",
+                    "day7": "Paz"
+                },
+                "widget2": {
+                    "title": "Operasyon Hızı",
+                    "subtitle": "Süreçlerimizi hızlı ve verimli şekilde yöneterek, operasyonel başarıyı artırıyoruz."
+                },
+                "widget3": {
+                    "title": "Servislerimiz",
+                    "subtitle": "Yenilikçi hizmetlerimizle güvenilir çözümler sunuyoruz.",
+                    "value1": "Lorem İpsum",
+                    "value2": "Lorem İpsum",
+                    "value3": "Lorem İpsum",
+                    "value4": "Lorem İpsum"
+                }
+            }
+        },
+        "section1": {
+            "feature1": {
+                "title": "Sonuç",
+                "subtitle": "Projenin sağladığı değer (ör. “%20 kullanıcı artışı”, “MVP lansmanı başarıyla tamamlandı”)"
+            },
+            "feature2": {
+                "title": "Süreç",
+                "subtitle": "Projenin tamamlanma süresi (ör. 4 Hafta, 3 Ay, Devam Eden)"
+            },
+            "feature3": {
+                "title": "Müşteri",
+                "subtitle": "Projenin geliştirildiği kurum veya iş birliği yapılan partner."
+            },
+            "feature4": {
+                "title": "Sektör",
+                "subtitle": "Projenin ait olduğu sektör (ör. Fintech, Sağlık, Robotik, Eğitim)"
+            },
+            "feature5": {
+                "title": "Ekip Yapısı",
+                "subtitle": "Projede görev alan ekip üyeleri (ör. 1 Tasarımcı, 1 Araştırmacı, 2 Geliştirici)"
+            },
+            "feature6": {
+                "title": "Hizmetler",
+                "subtitle": "Sunulan katkılar (ör. UI/UX Tasarım, Araştırma, Prototip Geliştirme)"
+            }
+        },
+        "section2": {
+            "tag": "Projelerimiz",
+            "title": "Kullanıcı odaklı tasarım yaklaşımımızla iş süreçlerinizi hızlandırıyor ve geleceğe hazırlıyoruz",
+            "project1": {
+                "title": "Mektup.co",
+                "technology1": "Technology",
+                "technology2": "Full Stack Development",
+                "technology3": "AI",
+                "subtitle": "Yapay zeka destekli, güvenli ve akıllı bir mesajlaşma altyapısıdır. Kullanıcı dostu arayüzü, yüksek güvenlik standartları ve akıllı filtreleme özellikleriyle kurumlara ve bireylere modern bir iletişim deneyimi sunar."
+            },
+            "project2": {
+                "title": "MAR Robotics",
+                "technology1": "Technology",
+                "technology2": "Full Stack Development",
+                "technology3": "AI",
+                "subtitle": "Yapay zeka destekli, güvenli ve akıllı bir mesajlaşma altyapısıdır. Kullanıcı dostu arayüzü, yüksek güvenlik standartları ve akıllı filtreleme özellikleriyle kurumlara ve bireylere modern bir iletişim deneyimi sunar."
+            },
+            "project3": {
+                "title": "Alligoria",
+                "technology1": "Technology",
+                "technology2": "Full Stack Development",
+                "technology3": "AI",
+                "subtitle": "Yapay zeka destekli, güvenli ve akıllı bir mesajlaşma altyapısıdır. Kullanıcı dostu arayüzü, yüksek güvenlik standartları ve akıllı filtreleme özellikleriyle kurumlara ve bireylere modern bir iletişim deneyimi sunar."
+            },
+            "project4": {
+                "title": "Pars",
+                "technology1": "Technology",
+                "technology2": "Full Stack Development",
+                "technology3": "AI",
+                "subtitle": "Yapay zeka destekli, güvenli ve akıllı bir mesajlaşma altyapısıdır. Kullanıcı dostu arayüzü, yüksek güvenlik standartları ve akıllı filtreleme özellikleriyle kurumlara ve bireylere modern bir iletişim deneyimi sunar."
+            }
+        },
+        "section3": {
+            "title": "Güven ve İş Birliğiyle Büyüyoruz",
+            "subtitle": "Hexaops olarak; yapay zeka, robotik, fintech ve yarı iletken teknolojilerinde yenilikçi projeler geliştiriyoruz.",
+            "value1": "Yıllık Tecrübe",
+            "value2": "Ekip Üyesi",
+            "value3": "Tamalanan Proje"
+        },
+        "section4": {
+            "title": "Projelerinizi Birlikte Güçlendirelim",
+            "card1": {
+                "title": "Alanınızı Güçlendirin",
+                "subtitle": "Masaüstü ve mobil için optimize edilmiş deneyimler tasarlıyoruz."
+            },
+            "card2": {
+                "title": "Deneyimi Sadeleştirin",
+                "subtitle": "Karmaşık süreçleri basitleştirip, akıcı kullanıcı yolculukları oluşturuyoruz."
+            },
+            "card3": {
+                "title": "Hemen Başlayın",
+                "subtitle": "Hızlı entegrasyonlar ile projenizi zamanında hayata geçiriyoruz."
+            }
+        },
+        "section5": {
+            "title": "Güven ve İş Birliğiyle Büyüyoruz",
+            "subtitle": "Hexaops olarak; yapay zeka, robotik, fintech ve yarı iletken teknolojilerinde yenilikçi projeler geliştiriyoruz.",
+            "value1": "Yıllık Tecrübe",
+            "value2": "Ekip Üyesi",
+            "value3": "Tamalanan Proje"
+        },
+        "section6": {
+            "tag": "Referanslar",
+            "title": "Bize Güvenin",
+            "cards": {
+                "card1": {
+                    "comment": "Hexaops ekibi, projemizi kısa sürede hayata geçirerek işimizi bir üst seviyeye taşıdı. Kullanıcı odaklı tasarımları sayesinde müşterilerimizden çok olumlu geri dönüşler alıyoruz.",
+                    "customer-name": "tayseer,",
+                    "company-name": "CEO, Google"
+                },
+                "card2": {
+                    "comment": "Hexaops ekibi, projemizi kısa sürede hayata geçirerek işimizi bir üst seviyeye taşıdı. Kullanıcı odaklı tasarımları sayesinde müşterilerimizden çok olumlu geri dönüşler alıyoruz.",
+                    "customer-name": "tayseer,",
+                    "company-name": "CEO, Google"
+                }
+            }
+        }
+    },
+    "technology": {
+        "technology-hero": {
+            "title": "Mektup.co",
+            "subtitle": "Güvenli ve Akıllı Mesajlaşma Deneyimi",
+            "info": {
+                "desc": "Mektup.co, kurumların müşteri iletişimini tek yerde toplayan bir SaaS platformu. Amacımız; kullanıcıların kendi kendine çözüm oranını artırmak, destek ekibi yükünü azaltmak ve tutarlı bir marka deneyimi sunmak. Bu çalışma kapsamında bilgi mimarisini yeniden kurguladık, arama deneyimini güçlendirdik ve yeni bir tasarım sistemi kurduk.",
+                "link": "Mobile App: mektup.co",
+                "values": {
+                    "value1": "Destek Ekibi",
+                    "value2": "Aktif Kullanıcı",
+                    "value3": "Self Service Skor"
+                },
+                "services": {
+                    "title": "Hizmetler",
+                    "service1": "UX Research",
+                    "service2": "IA",
+                    "service3": "UI/UX Design",
+                    "service4": "Design System",
+                    "service5": "Design System",
+                    "service6": "Development"
+                }
+            }
+        },
+        "section1": {
+            "title": "Uygulama Hedefleri",
+            "card1": {
+                "title": "Hedef",
+                "subtitle": "Self-servis oranını artırmak",
+                "desc": "Kullanıcıların sorularını daha hızlı çözebilmesi için içerikleri konuya göre kümelendik, akıllı arama ve öneri kartları ekledik. Adım adım rehberlerle kritik akışları (şifre, fatura, entegrasyon) öne çıkardık.Beklenen etki: self-servis skorunda +%30 artış."
+            },
+            "card2": {
+                "title": "Hedef",
+                "subtitle": "Destek ekibi yükünü azaltmak",
+                "desc": "Önleyici ipuçları, SSS’e otomatik yönlendirme ve form içinde önerilerle tekrar eden talepleri azalttık. Etiketleme ve yönlendirme kuralları sayesinde talepler doğru ekibe daha hızlı aktı.Beklenen etki: destek yükünde −%20 azalma."
+            }
+        },
+        "section2": {
+            "title": "Tasarım Sistemi",
+            "main-colors": "Ana Renkler",
+            "font-variations": "Font Varyasyonları",
+            "desc": "Marka paletinden türetilen erişilebilir kontrast kombinasyonları belirledik; durum renkleri (bilgi/uyarı/başarı) standardize edildi. Başlıklar için [örn. Inter/Medium], paragraflar için [örn. Inter/Regular] seçildi. Çizgi kalınlıkları eşitlenmiş ikon seti ve hafif illüstrasyon stili, ürünün dost canlısı tonunu destekliyor. Böylece görsel kimlik dijital temas noktalarının tamamına tutarlı biçimde yayıldı.",
+            "table": {
+                "title": "Projelendirme Sürecini Nasıl Planlıyoruz",
+                "week1": "1.Hafta",
+                "week2": "2.Hafta",
+                "week3": "3.Hafta",
+                "week4": "4.Hafta"
+            },
+            "phases": {
+                "phase1": "UX Araştırması",
+                "phase2": "Kullanıcı Testleri",
+                "phase3": "Kullanıcı Testleri",
+                "phase4": "Tasarım fikri",
+                "phase5": "Tasarım Uygulaması",
+                "phase6": "yazılım Süreci",
+                "phase7": "Prototipleme",
+                "phase8": "QA Süreci"
+            }
+        }
+    }
+}

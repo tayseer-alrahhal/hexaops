@@ -1,0 +1,410 @@
+{
+    "header": {
+        "home": "Home",
+        "about": "About us",
+        "projects": "Projects",
+        "technology": "Technology",
+        "button": "Contact"
+    },
+    "hero": {
+        "title": "Coding the Future",
+        "subtitle": "<brand>Hexaops</brand> as a company, we set standards in data, artificial intelligence, and autonomous systems with our deep technology expertise, creating rational solutions to the most challenging problems.",
+        "button": "Check Out Our Projects"
+    },
+    "section1": {
+        "title": "<brand>Hexaops</brand> is not just about software development.",
+        "subtitle": "Every system we develop produces meaningful, learnable, and globally relevant solutions, not just functional ones.",
+        "box": {
+            "title": "Data-Focused",
+            "subtitle": "All our solutions are built on meaningful data."
+        }
+    },
+    "section2": {
+        "tags": {
+            "tag1": "#AI",
+            "tag2": "#Cloud",
+            "tag3": "#Fintech",
+            "tag4": "#Robotics"
+        },
+        "title": "Our expertise shaping the future",
+        "Group": {
+            "title": "Artificial Intelligence",
+            "subtitle": "We develop human-centered, intelligent solutions using LLM, NLP, and generative AI technologies.",
+            "button": "Learn More"
+        },
+        "desc": "We develop projects across a wide range of expertise—from artificial intelligence and cloud infrastructure to financial technologies and autonomous systems."
+    },
+    "section3": {
+        "title": "<brand>Hexaops</brand> Products and Projects Developed by",
+        "subtitle": "With projects we develop in artificial intelligence, communication technologies, financial systems, and autonomous robotics, we provide solutions to real-world problems and shape the future today.",
+        "button": "Explore the Project"
+    },
+    "section4": {
+        "title": "Why <brand>Hexaops?</brand>",
+        "subtitle": "Hexaops doesn't just produce technology; it develops scalable and human-centered systems fueled by meaningful data. We provide innovative, sustainable, and reliable solutions.",
+        "group1": {
+            "title": "Data-Driven Decision Mechanisms",
+            "subtitle": "Our solutions are built on strategic decision structures grounded in reliable and meaningful data."
+        },
+        "group2": {
+            "title": "Research & Continuous Innovation",
+            "subtitle": "Our products continuously evolve with learning systems that adapt to changing technology."
+        },
+        "group3": {
+            "title": "Enterprise Security and Sustainability",
+            "subtitle": "Every system we develop adheres to high security standards and long-term maintenance criteria."
+        },
+        "group4": {
+            "title": "Global Standards Software Development",
+            "subtitle": "Hexaops solutions are based on engineering standards that are valid internationally, not just locally."
+        }
+    },
+    "footer": {
+        "company": {
+            "title": "Company",
+            "link1": "About",
+            "link2": "Team",
+            "link3": "Careers",
+            "link4": "Contact",
+            "link5": "Investor Relations"
+        },
+        "resources": {
+            "title": "Resources",
+            "link1": "Blog & News",
+            "link2": "Case Studies",
+            "link3": "Whitepapers",
+            "link4": "Events",
+            "link5": "Docs"
+        },
+        "products": {
+            "title": "Products",
+            "link1": "Mektup.co",
+            "link2": "Mergen Finans",
+            "link3": "AksuPlus",
+            "link4": "Primer Eye"
+        },
+        "solutions": {
+            "title": "Solutions & Industries",
+            "link1": "Enterprises",
+            "link2": "Startups & Scaleups",
+            "link3": "Public Sector",
+            "link4": "Universities & Research"
+        },
+        "offices": {
+            "title": "Offices & Contact",
+            "link1": "Kahramanmaraş HQ",
+            "link2": "İstanbul Office",
+            "link3": "Telefon Numarası",
+            "link4": "info@Hexaops.com",
+            "link5": "Group / Affiliates",
+            "link-61": "MAR Robotics",
+            "link-62": "Alligoria"
+        },
+        "footerLine": {
+            "title1": "Copyright Text (© 2025 Hexaops...)",
+            "title2": "KVKK Privacy Notice",
+            "title3": "Privacy Policy",
+            "title4": "Terms of Use",
+            "title5": "Cookie Preferences",
+            "title6": "Accessibility Statement"
+        }
+    },
+    "about-us": {
+        "about-hero": {
+            "title": "Our Vision: Tangible and Measurable Technology",
+            "subtitle": "We are redefining what is possible with technology.",
+            "button": "Explore Our Projects"
+        },
+        "section1": {
+            "title": "We are a technology group that produces innovative solutions",
+            "subtitle": "Hexaops is a technology group that produces measurable solutions with deep technological expertise and an innovative perspective. Our story began with a passion not only for writing code, but for redefining what is possible with technology."
+        },
+        "section2": {
+            "tag": "Our Team",
+            "title": "Our Success is Built on Our Team",
+            "subtitle": "The driving force behind <brand>Hexaops</brand> is our expert and experienced leadership team.",
+            "team": {
+                "member1": {
+                    "name": "Asya İplikçi",
+                    "role": "Product Designer | Team Lead",
+                    "image": "/about/member.webp",
+                    "des": "Lorem ipsum dolor sit amet consectetur. Hac rutrum laoreet eu viverra libero. Faucibus sapien vulputate adipiscing non eleifend pulvinar ac semper amet. Rhoncus non interdum morbi molestie nunc. Aenean vulputate id justo nullam metus condimentum. Odio condimentum aliquam platea urna vitae urna. Pellentesque luctus quam libero dolor massa."
+                }
+            }
+        },
+        "section3": {
+            "tag": "Our Philosophy",
+            "title": "We don't just offer services; we build technology partnerships.",
+            "subtitle": "This principle reflects our commitment to our work and our standards. In our projects we aim for excellence and embrace a transparent, results-oriented culture of collaboration. We invest in our team and partners, but proceed only with those who share the same passion and vision."
+        },
+        "section4": {
+            "tag": "Our Services",
+            "service1": {
+                "title": "Transforming Data into Power with Our Custom AI Models",
+                "subtitle": "We provide optimized AI solutions for our projects with our custom-developed LLMs, specialized translation engines, and data repositories."
+            },
+            "service2": {
+                "title": "Uninterrupted Power with Our Underground High-Security Data Center",
+                "subtitle": "We provide uninterrupted and secure services with our GPU-enabled data center located in Ankara with a capacity of 88 cabinets."
+            },
+            "service3": {
+                "title": "Flexible and Scalable Architecture with Independently Developed Microservices",
+                "subtitle": "Our independently developed microservices architecture enables rapid and secure scaling of our projects."
+            },
+            "service4": {
+                "title": "Maximum Security with End-to-End Encryption and Strict Data Policies",
+                "subtitle": "We provide the highest level of security across all our systems with end-to-end encryption and strict data policies."
+            },
+            "service5": {
+                "title": "Going Beyond Software with Our Robotics and Hardware R&D Capabilities",
+                "subtitle": "Through our MAR Robotics collaboration, we develop solutions in the physical world through hardware development and sensor integration."
+            }
+        },
+        "section5": {
+            "tag": "Our Advisors and Supporters",
+            "title": "We make strategic decisions with our advisors.",
+            "advisors": {
+                "advisor1": {
+                    "name": "Ahmet Yılmaz",
+                    "des": "Lorem ipsum dolor sit amet consectetur. Pellentesque odio malesuada fermentum fermentum in turpis in sit odio. Nec eleifend neque nulla sagittis ligula tortor. Nec eleifend neque nulla in turpis in sit odio.",
+                    "image": "/about/section5/advisor1.jpg"
+                },
+                "advisor2": {
+                    "name": "Selin Aksu",
+                    "des": "Lorem ipsum dolor sit amet consectetur. Pellentesque odio malesuada fermentum fermentum in turpis in sit odio. Nec eleifend neque nulla sagittis ligula tortor. Nec eleifend neque nulla in turpis in sit odio.",
+                    "image": "/about/section5/advisor2.jpg"
+                },
+                "advisor3": {
+                    "name": "Melis Yıldız",
+                    "des": "Lorem ipsum dolor sit amet consectetur. Pellentesque odio malesuada fermentum fermentum in turpis in sit odio. Nec eleifend neque nulla sagittis ligula tortor. Nec eleifend neque nulla in turpis in sit odio.",
+                    "image": "/about/section5/advisor3.jpg"
+                },
+                "advisor4": {
+                    "name": "Mehmet Çil",
+                    "des": "Lorem ipsum dolor sit amet consectetur. Pellentesque odio malesuada fermentum fermentum in turpis in sit odio. Nec eleifend neque nulla sagittis ligula tortor. Nec eleifend neque nulla in turpis in sit odio.",
+                    "image": "/about/section5/advisor4.jpg"
+                }
+            }
+        }
+    },
+    "contact": {
+        "title": "Let Us Help You",
+        "subtitle": "Get in touch with the <brand>Hexaops</brand> team and let us provide you with the fastest solutions to your needs.",
+        "boxes": {
+            "box1": {
+                "title": "Hexaops Community",
+                "subtitle": "Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor sit amet consectetur.",
+                "button": "Join the Community"
+            },
+            "box2": {
+                "title": "Contact Us",
+                "subtitle": "You can easily reach us with your questions, suggestions, or collaboration requests.",
+                "button": "Get in Touch"
+            },
+            "box3": {
+                "title": "Careers / Partnership",
+                "subtitle": "If you want to join our projects or work as a freelancer, join our team.",
+                "button": "support@Hexaops.com"
+            }
+        },
+        "socials": {
+            "title": "Code the Future Together",
+            "subtitle": "Contact us to bring your project to life with Hexaops, get technology consulting, or collaborate with us."
+        }
+    },
+    "projects": {
+        "projects-hero": {
+            "title": "Solutions Building the Future of Technology",
+            "subtitle": "At Hexaops, we develop projects across a wide range of fields — from artificial intelligence and robotic systems to fintech ventures and semiconductor technologies. Each of our products reflects our innovative vision and our goal to contribute to technological transformation.",
+            "button1": "View Projects",
+            "button2": "Join the Community",
+            "widgets": {
+                "widget1": {
+                    "title": "Our Statistics",
+                    "day1": "Mon",
+                    "day2": "Tue",
+                    "day3": "Wed",
+                    "day4": "Thu",
+                    "day5": "Fri",
+                    "day6": "Sat",
+                    "day7": "Sun"
+                },
+                "widget2": {
+                    "title": "Operational Speed",
+                    "subtitle": "We manage our processes quickly and efficiently to enhance operational success."
+                },
+                "widget3": {
+                    "title": "Our Services",
+                    "subtitle": "We deliver reliable solutions with our innovative services.",
+                    "value1": "Lorem Ipsum",
+                    "value2": "Lorem Ipsum",
+                    "value3": "Lorem Ipsum",
+                    "value4": "Lorem Ipsum"
+                }
+            }
+        },
+        "section1": {
+            "feature1": {
+                "title": "Results",
+                "subtitle": "The value delivered by the project (e.g., '20% user increase', 'MVP launch completed successfully')"
+            },
+            "feature2": {
+                "title": "Timeline",
+                "subtitle": "Project completion duration (e.g., 4 Weeks, 3 Months, Ongoing)"
+            },
+            "feature3": {
+                "title": "Client",
+                "subtitle": "The organization or partner for which the project was developed."
+            },
+            "feature4": {
+                "title": "Industry",
+                "subtitle": "The sector the project belongs to (e.g., Fintech, Healthcare, Robotics, Education)"
+            },
+            "feature5": {
+                "title": "Team Structure",
+                "subtitle": "Team members involved in the project (e.g., 1 Designer, 1 Researcher, 2 Developers)"
+            },
+            "feature6": {
+                "title": "Services",
+                "subtitle": "Services provided (e.g., UI/UX Design, Research, Prototype Development)"
+            }
+        },
+        "section2": {
+            "tag": "Our Projects",
+            "title": "We accelerate your business processes and prepare you for the future with our user-centered design approach",
+            "project1": {
+                "title": "Mektup.co",
+                "technology1": "Technology",
+                "technology2": "Full Stack Development",
+                "technology3": "AI",
+                "subtitle": "An AI-powered, secure, and intelligent messaging infrastructure. With its user-friendly interface, high security standards, and intelligent filtering features, it provides organizations and individuals with a modern communication experience."
+            },
+            "project2": {
+                "title": "MAR Robotics",
+                "technology1": "Technology",
+                "technology2": "Full Stack Development",
+                "technology3": "AI",
+                "subtitle": "An AI-powered, secure, and intelligent messaging infrastructure. With its user-friendly interface, high security standards, and intelligent filtering features, it provides organizations and individuals with a modern communication experience."
+            },
+            "project3": {
+                "title": "Alligoria",
+                "technology1": "Technology",
+                "technology2": "Full Stack Development",
+                "technology3": "AI",
+                "subtitle": "An AI-powered, secure, and intelligent messaging infrastructure. With its user-friendly interface, high security standards, and intelligent filtering features, it provides organizations and individuals with a modern communication experience."
+            },
+            "project4": {
+                "title": "Pars",
+                "technology1": "Technology",
+                "technology2": "Full Stack Development",
+                "technology3": "AI",
+                "subtitle": "An AI-powered, secure, and intelligent messaging infrastructure. With its user-friendly interface, high security standards, and intelligent filtering features, it provides organizations and individuals with a modern communication experience."
+            }
+        },
+        "section3": {
+            "title": "Growing Through Trust and Collaboration",
+            "subtitle": "As Hexaops; we develop innovative projects in artificial intelligence, robotics, fintech, and semiconductor technologies.",
+            "value1": "Years of Experience",
+            "value2": "Team Members",
+            "value3": "Completed Projects"
+        },
+        "section4": {
+            "title": "Let's Strengthen Your Projects Together",
+            "card1": {
+                "title": "Empower Your Field",
+                "subtitle": "We design experiences optimized for desktop and mobile."
+            },
+            "card2": {
+                "title": "Simplify the Experience",
+                "subtitle": "We simplify complex processes and create seamless user journeys."
+            },
+            "card3": {
+                "title": "Get Started Now",
+                "subtitle": "We bring your project to life on time with fast integrations."
+            }
+        },
+        "section5": {
+            "title": "Growing Through Trust and Collaboration",
+            "subtitle": "As Hexaops; we develop innovative projects in artificial intelligence, robotics, fintech, and semiconductor technologies.",
+            "value1": "Years of Experience",
+            "value2": "Team Members",
+            "value3": "Completed Projects"
+        },
+        "section6": {
+            "tag": "References",
+            "title": "Trust Us",
+            "cards": {
+                "card1": {
+                    "comment": "The Hexaops team brought our project to life in a short time, taking our business to the next level. Thanks to their user-centered design, we receive very positive feedback from our customers.",
+                    "customer-name": "Tayseer,",
+                    "company-name": "CEO, Google"
+                },
+                "card2": {
+                    "comment": "The Hexaops team brought our project to life in a short time, taking our business to the next level. Thanks to their user-centered design, we receive very positive feedback from our customers.",
+                    "customer-name": "Tayseer,",
+                    "company-name": "CEO, Google"
+                }
+            }
+        }
+    },
+    "technology": {
+        "technology-hero": {
+            "title": "Mektup.co",
+            "subtitle": "A Secure and Smart Messaging Experience",
+            "info": {
+                "desc": "Mektup.co is a SaaS platform that centralizes customer communication for organizations. Our goal is to increase users’ self-service resolution rate, reduce the workload of support teams, and provide a consistent brand experience. In this project, we restructured the information architecture, strengthened the search experience, and built a new design system.",
+                "link": "Mobile App: mektup.co",
+                "values": {
+                    "value1": "Support Team",
+                    "value2": "Active User",
+                    "value3": "Self-Service Score"
+                },
+                "services": {
+                    "title": "Services",
+                    "service1": "UX Research",
+                    "service2": "IA",
+                    "service3": "UI/UX Design",
+                    "service4": "Design System",
+                    "service5": "Design System",
+                    "service6": "Development"
+                }
+            }
+        },
+        "section1": {
+            "title": "Application Goals",
+            "card1": {
+                "title": "Goal",
+                "subtitle": "Increase the self-service rate",
+                "desc": "We grouped content by topic to help users find answers faster, added smart search and suggestion cards, and highlighted critical flows (password, billing, integration) with step-by-step guides. Expected impact: +30% increase in self-service score."
+            },
+            "card2": {
+                "title": "Goal",
+                "subtitle": "Reduce the support team workload",
+                "desc": "We reduced repetitive requests with preventative tips, automatic redirection to FAQ, and in-form suggestions. Thanks to tagging and routing rules, requests were delivered to the right team more quickly. Expected impact: −20% reduction in support workload."
+            }
+        },
+        "section2": {
+            "title": "Design System",
+            "main-colors": "Primary Colors",
+            "font-variations": "Font Variations",
+            "desc": "We defined accessible contrast combinations derived from the brand palette; status colors (info/warning/success) were standardized. For headings, fonts such as [e.g., Inter/Medium] were chosen, while [e.g., Inter/Regular] was used for paragraphs. An icon set with balanced stroke weights and a light illustration style supports the friendly tone of the product. This allowed the visual identity to be consistently applied across all digital touchpoints.",
+            "table": {
+                "title": "How We Plan the Project Process",
+                "week1": "Week 1",
+                "week2": "Week 2",
+                "week3": "Week 3",
+                "week4": "Week 4"
+            },
+            "phases": {
+                "phase1": "UX Research",
+                "phase2": "User Testing",
+                "phase3": "User Testing",
+                "phase4": "Design Concept",
+                "phase5": "Design Implementation",
+                "phase6": "Development Process",
+                "phase7": "Prototyping",
+                "phase8": "QA Process"
+            }
+        }
+    }
+}
